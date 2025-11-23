@@ -5,4 +5,4 @@ def sub(a, b):
 
 def test_sub():
     assert sub(2, 1) == 1
-    assert add(1, -1) == 2
+    assert sub(1, -1) == 2
